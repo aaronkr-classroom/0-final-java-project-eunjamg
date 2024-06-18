@@ -1,6 +1,6 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/rtWQojmw)
 # 0-java-project
-최종프로젝트 src첫번째가 아니라 두번째 src를 눌러보면 scr/com/market이라고 있는데 이게 ㅊ최종프로젝트 과제제출이니까 교수님 첫번째말고 두번쨰scr/com/market이걸 보시길 바랍니다.
+최종프로젝트 src첫번째가 아니라 두번째 src를 눌러보면 scr/com/market이라고 있는데 이게 ㅊ최종프로젝트 과제제출이니까 교수님 첫번째말고 두번쨰scr/com/market이걸 보시길 바랍니다. images밑에 scr/com/market 있습니다 눌러보시면 있습니다 헷갈릴수도있겠지만 잘봐주세요
 ## 최종 JAVA 프로젝트
 
 - [x] 1. 온라인 서점 프로젝트 생성하기
